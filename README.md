@@ -1,5 +1,1 @@
-# CNTT1-session-1
-# CNTT1-session-1-ex1
-# CNTT1-session-1-ex1
-# CNTT1-session-1-ex1
-# CNTT1-session-1-ex1
+Nam sai khi cho rằng LLM luôn tính toán chính xác và càng nhiều tham số thì khả năng tính toán càng tuyệt đối. Thực tế, LLM dự đoán từ tiếp theo dựa trên dữ liệu đã học (Next Token Prediction và Pre-training), nên có thể tính sai. Prompt đề xuất: “Hãy dùng Python để tính 15.480 + 28.750, kiểm tra lại kết quả và đưa ra đáp án chính xác.” Kết quả đúng: 44.230.
